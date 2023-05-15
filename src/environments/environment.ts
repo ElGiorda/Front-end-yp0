@@ -19,7 +19,7 @@ const firestore = getFirestore(app);
 
 export const environment = {
   production: false,
-  URL: "http://localhost:8080/",
-  //URL: 'https://back-end-yop0.onrender.com/',
+  //URL: "http://localhost:8080/",
+  URL: 'https://back-end-yop0.onrender.com/',
   firebase: firebaseConfig,
 };

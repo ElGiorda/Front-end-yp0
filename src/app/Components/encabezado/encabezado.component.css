@@ -43,10 +43,10 @@
     right: 0;
     top : 310px;
   }
-  div{
-    background: #ffffff;
+  .mat-card{
+    margin: 10px;
+    background-color: #dfbebe;
   }
- 
  
 
   

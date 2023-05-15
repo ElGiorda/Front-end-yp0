@@ -2,13 +2,17 @@
     border: 1px solid #ccc;
     position: relative;
     padding: 10px;
+    
+    margin: 10px;
+    background-color: #dfbebe;
+ 
 }
 .btn-contenedor {
     /*border: 1px solid #111;*/
     position: absolute;
     right: 0;
     top : 0;
-  }
+ }
   h3{
     margin-left: 10px;
   }
@@ -16,3 +20,5 @@
     margin-left: 12px;
     font-size: 18px;
   }
+
+ 
