@@ -1,0 +1,19 @@
+.contenedor{
+    border: 1px solid #ccc;
+    position: relative;
+    padding: 10px;
+  }
+  .btn-agregar{
+    position: absolute;
+    top: 11px;
+    left: 290px;
+  }
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .card {
+    margin-bottom: 10px; /* Espacio entre las cartas */
+    margin-left: 20px; /* Ajuste a la izquierda */
+  }
